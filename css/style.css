@@ -99,3 +99,127 @@ span{
     width:100px;
     height:100px;
 }
+
+#Editorial{
+    background-color: rgb(17, 155, 247);
+    color:white;
+    font-size:17px;
+    width:100px;
+    height:100px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+    padding-top:5px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-bottom:5px;
+    margin-left:290px;
+    position:relative;
+    bottom:25px;
+}
+
+#Goals{
+    background-color: rgb(228, 17, 247);
+    color:white;
+    font-size:17px;
+    width:100px;
+    height:100px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+    padding-top:5px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-bottom:5px;
+    margin-left:270px;
+    position:relative;
+    bottom:25px;
+    border:0px;
+
+}
+
+#Recruiting{
+    background-color: rgb(6, 172, 28);
+    color:white;
+    font-size:17px;
+    width:100px;
+    height:100px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+    padding-top:5px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-bottom:5px;
+    margin-left:270px;
+    position:relative;
+    bottom:25px;
+    border:0px;
+
+}
+
+#Mobile{
+    background-color: rgb(247, 140, 17);
+    color:white;
+    font-size:17px;
+    width:100px;
+    height:100px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+    padding-top:5px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-bottom:5px;
+    margin-left:420px;
+    position:relative;
+    bottom:25px;
+    border:0px;
+
+}
+
+#Website{
+    background-color: rgb(228, 17, 247);
+    color:white;
+    font-size:17px;
+    width:100px;
+    height:100px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+    padding-top:5px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-bottom:5px;
+    margin-left:270px;
+    position:relative;
+    bottom:25px;
+    border:0px;
+}
+ 
+#Sales{
+    background-color: rgba(17, 247, 132, 0.678);
+    color:white;
+    font-size:17px;
+    width:100px;
+    height:100px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+    padding-top:5px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-bottom:5px;
+    margin-left:420px;
+    position:relative;
+    bottom:25px;
+    border:0px;
+}
+
+ 
