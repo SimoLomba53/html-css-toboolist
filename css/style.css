@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: white;
+}
+
+#logo{
+    margin-left:20px
+}
+
+#main-title{
+    display: inline;
+    font-size:40px;
+    font-weight:bold;
+    position:relative;
+    bottom:10px;
+}
+
+main{
+    background-color: rgb(241, 241, 241);
+    height:1000px;
+}
